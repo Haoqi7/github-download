@@ -8,4 +8,4 @@ Github_tools 是基于Python免费帮助你更好的使用Github!  内有Github�
 <p>下载我已经编译好的软件GitDown，双击后会弹出界面，根据提示填写你要下载的项目根目录即可。</p>
 <h4>界面截图</h4>
 
-![输入图片说明](/GitDown/images/Gitdown.png)
+![输入图片说明](/images/Gitdown.png)
